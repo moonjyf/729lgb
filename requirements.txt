@@ -10,7 +10,5 @@ numba==0.56.4
 llvmlite==0.39.1
 lightgbm==3.3.5
 
-# trigger rebuild
-git add requirements.txt
-git commit -m "trigger rebuild with config.toml"
-git push
+# git add requirements.txt
+
